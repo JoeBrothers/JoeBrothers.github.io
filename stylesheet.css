@@ -1,0 +1,83 @@
+.jumbotron {margin-right: 525px;
+	margin-left: 525px;
+	margin-top: 20px;
+	margin-bottom: 50px;
+	border-radius: 5px 40px 5px;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	padding-top: 5px;
+	padding-bottom:5px;
+	padding-right:5px;
+	padding-left:5px;
+	color: #ffffff;
+	font-weight: bold;
+	font-family: 'Georgia', sans serif;
+	background-color: #005252;
+	text-align: center;
+	line-height: 1.4;
+}
+
+.jumbotron p {line-height: 0.8;
+	font-size: 14px;}
+
+.jumbotron:hover {
+	background-image: url('https://media.licdn.com/media/p/4/005/087/272/1c9512c.jpg');
+	height: 176.5px;
+	width: 300px;
+}	
+
+.nav a {font-size: 12px;
+	font-weight: bold;
+	color: #005252;
+	font-family: 'Georgia', sans serif;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 8em;
+	margin-bottom: 20px;
+}
+
+.nav li {display: inline;}
+
+.body h3 a {font-family: 'Georgia', sans serif;
+	color: #005252;
+	font-weight: bold;
+	}
+
+.body {margin-left: 20px;
+	background-color: #ffffb8;
+	border-radius: 20px;
+	border: groove;
+	border-color: #005252;}
+
+.body p {margin-left: 30px;
+	font-size: 16px;
+	font-family: 'Georgia', sans-serif;
+	}
+
+.work-experience {font-family: 'Georgia', sans-serif;
+	font-size: 14px;}
+
+.work-experience p
+	{font-size: 16px;
+	font-weight: bold;
+	color: #000000;
+	margin-top: 10px;
+	margin-bottom: 10px;}
+
+.work-experience li {font-weight: bold;
+	margin-left: 175px;}
+
+.education {font-family: 'Georgia', sans-serif;}
+
+.education li {font-weight: bold;}
+
+.technical-skills {font-family: 'Georgia', sans-serif;}
+
+.technical-skills {font-weight: bold;}
+
+.career-highlights {font-family: 'Georgia', sans-serif;}
+
+.career-highlights li {font-weight: bold;}
